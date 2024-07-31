@@ -10,4 +10,4 @@
 
 |난이도|문제 이름|문제 URL|해결 상태|
 |:---:|:---|:---:|:---:|
-|Lv0|**암호 해독**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|✅|
+|Lv0|**문자열 출력하기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/181952)|✅|
