@@ -12,3 +12,5 @@
 |:---:|:---|:---:|:---:|
 |Lv0|**Day1 사칙연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120802)|✅|
 |Lv0|**Day2 사칙연산,조건문,배열**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120806)|✅|
+|Lv0|**Day3 사칙연산,배열,수학**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|✅|
+|Lv0|**Day4 수학,배열**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120814)|✅|
