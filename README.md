@@ -17,4 +17,4 @@
 |Lv0|**Day5 수학,배열**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|✅|
 |Lv0|**Day6 문자열,반복문,출력,배열,조건문**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120822)|✅|
 |Lv0|**Day7 문자열,조건문,수학,반복문**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|✅|
-|Lv0|**Day8 배열,구현,수학**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|✅|
+|Lv0|**Day8 배열,구현,수학**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|✅|
