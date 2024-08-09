@@ -19,3 +19,4 @@
 |Lv0|**Day7 문자열,조건문,수학,반복문**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|✅|
 |Lv0|**Day8 배열,구현,수학**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|✅|
 |Lv0|**Day9 수학,문자열,해시,완전탐색,조건문**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120837)|✅|
+|Lv0|**Day10 조건문,배열,수학,시뮬레이션**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120841)|✅|
