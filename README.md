@@ -23,4 +23,4 @@
 |Lv0|**Day11 수학,반복문**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120845)|✅|
 |Lv0|**Day12 문자열,정렬,사칙연산,수학**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120849)|✅|
 |Lv0|**Day13 문자열,배열,사칙연산,수학,조건문**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120853)|✅|
-
+|Lv0|**Day14 조건문,반복문,시뮬레이션,문자열**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120890)|✅|
