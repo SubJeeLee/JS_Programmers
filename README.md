@@ -34,3 +34,4 @@
 |Lv0|**Day22 dp,수학,조건문,배열**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120871)|✅|
 |Lv0|**Day23 배열,정렬,문자열**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120880)|✅|
 |Lv0|**Day24 수학,시뮬레이션,문자열,조건문,반복문**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120884)|✅|
+|Lv0|**Day25 시뮬레이션,조건문,수학**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120921)|✅|
