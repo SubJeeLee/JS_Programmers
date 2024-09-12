@@ -1,7 +1,9 @@
 function solution(a, b, c, d) {
   // {주사위값: 빈도}로 정리
+  
   const dice = [a, b, c, d].reduce((acc, cur) => {
     acc[cur] = acc[cur] ? acc[cur] + 1 : 1;
+    //삼항 연산자는 값의 존재여부를 간단히 알 수 있음.
     return acc;
   }, {});
   console.log(dice);
@@ -31,3 +33,4 @@ function solution(a, b, c, d) {
 
 console.log(solution(2,2,2,2));
 console.log(solution(4,1,4,4));
+
