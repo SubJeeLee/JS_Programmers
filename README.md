@@ -1,6 +1,7 @@
 
 # 💻 JS - Programmers
 2024.07.31일부터 연등시간에 한문제씩 풀기
+Lv0 부터 Lv2까지 모든 JS 문제 풀기
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee980605)](https://solved.ac/lee980605)
