@@ -9,10 +9,8 @@ Lv0 부터 Lv2까지 모든 JS 문제 풀기
 
 
 ## 🎯 [[프로그래머스]코딩테스트 Lv 0](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&levels=0&languages=javascript)
-<br>
 
 ## 🎯 [[프로그래머스]코딩테스트 Lv 1](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=javascript&levels=1)
-<br>
 
 ## 🎯 [[프로그래머스]코딩테스트 Lv 2](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=javascript&levels=2)
 
