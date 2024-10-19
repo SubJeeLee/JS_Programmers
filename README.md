@@ -10,7 +10,9 @@ Lv0 부터 Lv2까지 모든 JS 문제 풀기
 
 ## 🎯 [프로그래머스]코딩테스트 입문
 
-|난이도|문제 이름|문제 URL|해결 상태|
+https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1&languages=javascript&page=4
+
+<!-- |난이도|문제 이름|문제 URL|해결 상태|
 |:---:|:---|:---:|:---:|
 |Lv0|**Day1 사칙연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120802)|✅|
 |Lv0|**Day2 사칙연산,조건문,배열**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120806)|✅|
@@ -36,4 +38,4 @@ Lv0 부터 Lv2까지 모든 JS 문제 풀기
 |Lv0|**Day22 dp,수학,조건문,배열**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120871)|✅|
 |Lv0|**Day23 배열,정렬,문자열**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120880)|✅|
 |Lv0|**Day24 수학,시뮬레이션,문자열,조건문,반복문**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120884)|✅|
-|Lv0|**Day25 시뮬레이션,조건문,수학**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120921)|✅|
+|Lv0|**Day25 시뮬레이션,조건문,수학**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120921)|✅| -->
