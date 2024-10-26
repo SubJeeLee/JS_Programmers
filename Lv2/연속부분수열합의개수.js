@@ -13,7 +13,7 @@ function solution(elements) {
 }
 
 // elements	result
-// [7,9,1,1,4]	18
+// [7,9,1,1,4]	 18
 
 //다른 풀이
 function solution(elements) {
