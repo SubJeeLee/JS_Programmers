@@ -1,12 +1,8 @@
-function solution(A,B){
-    let sortedA = A.sort((a,b) => a-b);
-    let sortedB = B.sort((a,b) => b-a);
+function solution(A, B) {
+    let sortedA = A.sort((a, b) => a - b); 
+    let sortedB = B.sort((a, b) => b - a);
 
-    // const answer = sortedA.reduce((acc, curr, index) => {
-    //     return acc + (curr * sortedB[index]);
-    // },0)
-    // return answer;
-    return sortedA.reduce((acc, curr, index) => acc + curr * sortedB[index],0)
+    return sortedA.map((e, i) => e * sortedB[i]).reduce((a, b) => a + b);
 }
 
 // A	B	answer
