@@ -1,2 +1,6 @@
-ABRACADABRA
-ECADADABRBCRDARA
+5
+....X
+..XX.
+.....
+.XX..
+X....
